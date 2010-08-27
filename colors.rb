@@ -1,9 +1,13 @@
 require 'rubygems'
-require 'chunky_png'
-require 'sinatra'
+require 'vendor/chunky_png/lib/chunky_png'
+require 'vendor/sinatra/lib/sinatra'
 
 get '/' do
   redirect '/index.html'
+end
+
+get '/:hex.png' do
+  redirect '/'+params[:hex]
 end
 
 get '/:hex' do
