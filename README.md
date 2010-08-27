@@ -8,7 +8,12 @@
 
 Just tell your CSS file to use our URL. Like this:
 
-		div.column{background:url(http://colors.awesometm.com/444444.png) 0 0 repeat-y; float:left; margin 10px; padding: 0 10px;}
+		div.column {
+		  background: url(http://colors.awesometm.com/444444.png) 0 0 repeat-y;
+		  float: left;
+		  margin 10px;
+		  padding: 0 10px;
+		}
 
 In the above example, we pointed at 444444.png, but you can actually use any of the following syntaxes:
 
