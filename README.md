@@ -1,8 +1,6 @@
 # Colors
 
-More's coming.
-
-But for now: *Colors* is a library of 1x1 PNGs, available at [http://colors.awesometm.com](colors.awesometm.com). It's an asset server, of sorts.
+**Colors** is a library of 1x1 PNGs, available at [http://colors.awesometm.com](colors.awesometm.com). It's an asset server, of sorts. It's also a 1x1 PNG generator. Just go to the URL of the PNG you want (#444444 would be 444444.png), and you can save the PNG to your own server.
 
 ### FAQs
 
@@ -14,12 +12,14 @@ Just tell your CSS file to use our URL. Like this:
 
 In the above example, we pointed at 444444.png, but you can actually use any of the following syntaxes:
 
-    http://colors.awesometm.com/333333
-    http://colors.awesometm.com/333333.png
-    http://colors.awesometm.com/333
-    http://colors.awesometm.com/333.png
+    http://colors.awesometm.com/444444
+    http://colors.awesometm.com/444444.png
+    http://colors.awesometm.com/444
+    http://colors.awesometm.com/444.png
 
-You've probably figured this out, but the value you use is the hexadecimal code for the color you want.
+You've probably figured this out, but the value you use (in this case, 444444) is the hexadecimal code for the color you want.
+
+So what does that get you? It gets you a 1 pixel by 1 pixel PNG, of the color of your choice. These are useful as CSS background images, when you don't want to affect the width of your box model with a border-width.
 
 #### Who's behind this?
 
