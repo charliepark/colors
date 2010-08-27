@@ -3,19 +3,6 @@ require 'zlib'
 require 'stringio'
 require 'enumerator'
 
-require 'chunky_png/datastream.rb'
-require 'chunky_png/chunk.rb'
-require 'chunky_png/palette.rb'
-require 'chunky_png/color.rb'
-require 'chunky_png/canvas/png_encoding.rb'
-require 'chunky_png/canvas/png_decoding.rb'
-require 'chunky_png/canvas/adam7_interlacing.rb'
-require 'chunky_png/canvas/stream_exporting.rb'
-require 'chunky_png/canvas/stream_importing.rb'
-require 'chunky_png/canvas/operations.rb'
-require 'chunky_png/canvas/drawing.rb'
-require 'chunky_png/canvas.rb'
-require 'chunky_png/image.rb'
 
 # ChunkyPNG - the pury ruby library to access PNG files.
 #
