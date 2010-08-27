@@ -1,6 +1,8 @@
 # Colors
 
-**Colors** is a library of 1x1 PNGs, available at [colors.awesometm.com](http://colors.awesometm.com). It's an asset server, of sorts. It's also a 1x1 PNG generator. Just go to the URL of the PNG you want (#444444 would be 444444.png), and you can save the PNG to your own server.
+**Colors** is a library of 1x1 PNGs, available at [colors.awesometm.com](http://colors.awesometm.com). It's an asset server, of sorts. 
+
+It's also a 1x1 PNG generator. Just go to the URL of the PNG you want (#444444 would be 444444.png), and you can save the PNG to your own server.
 
 ### FAQs
 
@@ -35,4 +37,4 @@ It gets you a 1 pixel by 1 pixel PNG, of the color of your choice. These are use
 
 #### If I have a suggestion, what's the best way to get in touch?
 
-Contact Charlie on Twitter \([@charliepark](http://twitter.com/charliepark)\)
+Also, Colors is totally open-source (it's all right here on Github), so feel free to poke around. The app was built using the [Sinatra](http://www.sinatrarb.com/) web framework, and uses the [Chunky_PNG](http://github.com/wvanbergen/chunky_png) gem. If you have any suggestions on ways it could be improved, please let me know! Best way to do that is via Twitter \([@charliepark](http://twitter.com/charliepark)\).
