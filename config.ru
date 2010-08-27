@@ -4,6 +4,8 @@ require 'zlib'
 require 'stringio'
 require 'enumerator'
 
+require 'vendor/chunky_png/lib/chunky_png.rb'
+
 require 'vendor/chunky_png/lib/chunky_png/datastream'
 require 'vendor/chunky_png/lib/chunky_png/chunk'
 require 'vendor/chunky_png/lib/chunky_png/palette'
@@ -18,7 +20,6 @@ require 'vendor/chunky_png/lib/chunky_png/canvas/drawing'
 require 'vendor/chunky_png/lib/chunky_png/canvas'
 require 'vendor/chunky_png/lib/chunky_png/image'
 
-require 'vendor/chunky_png/lib/chunky_png.rb'
 require 'vendor/sinatra/lib/sinatra.rb'
 
 set :run, false
