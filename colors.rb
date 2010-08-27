@@ -1,5 +1,5 @@
 get '/' do
-  redirect '/index.html'
+  redirect 'http://github.com/charliepark/colors#readme'
 end
 
 get '/:hex.png' do
