@@ -1,7 +1,3 @@
-require 'rubygems'
-require 'vendor/chunky_png/lib/chunky_png'
-require 'vendor/sinatra/lib/sinatra'
-
 get '/' do
   redirect '/index.html'
 end
