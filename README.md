@@ -2,7 +2,7 @@
 
 **Colors** is a library of 1x1 PNGs, available at [colors.awesometm.com](http://colors.awesometm.com). It's an asset server, of sorts. 
 
-It's also a 1x1 PNG generator. Just go to the URL of the PNG you want (#444444 would be 444444.png), and you can save the PNG to your own server.
+It's also a 1x1 PNG generator. Just go to the URL of the PNG you want (#444444 would be [http://colors.awesometm.com/444444.png](http://colors.awesometm.com/444444.png)), and you can save the PNG to your own server.
 
 ### FAQs
 
