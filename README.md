@@ -24,7 +24,7 @@ In the above example, we pointed at 444444.png, but you can actually use any of 
     http://colors.awesometm.com/444
     http://colors.awesometm.com/444.png
 
-You've probably figured this out, but the value you use (in this case, 444444) is the hexadecimal code for the color you want.
+You've probably figured this out, but the value you use (in this case, 444444) is the hexadecimal code for the color you want. If you use the shortened form (123.png), Colors will automatically convert that to the appropriate longform hex code (112233.png).
 
 #### So what does that get you?
 
