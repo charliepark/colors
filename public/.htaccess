@@ -1,0 +1,4 @@
+# turn on the module for this directory
+ExpiresActive on
+# set default
+ExpiresByType image/png "access plus 100 years"
