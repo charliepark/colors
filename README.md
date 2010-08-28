@@ -15,6 +15,7 @@ Just tell your CSS file to use our URL. Like this:
 		  float: left;
 		  margin 10px;
 		  padding: 0 10px;
+			width: 300px;
 		}
 
 In the above example, we pointed at 444444.png, but you can actually use any of the following syntaxes:
