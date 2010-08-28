@@ -37,4 +37,6 @@ It gets you a 1 pixel by 1 pixel PNG, of the color of your choice. These are use
 
 #### If I have a suggestion, what's the best way to get in touch?
 
-Also, Colors is totally open-source (it's all right here on Github), so feel free to poke around. The app was built using the [Sinatra](http://www.sinatrarb.com/) web framework, and uses the [Chunky_PNG](http://github.com/wvanbergen/chunky_png) gem. If you have any suggestions on ways it could be improved, please let me know! Best way to do that is via Twitter \([@charliepark](http://twitter.com/charliepark)\).
+For feature requests or general "hey, this is cool!"-type notes, send a message via Twitter: \([@charliepark](http://twitter.com/charliepark)\).
+
+For code suggestions ... Colors is totally open-source (it's all right here on Github), so feel free to poke around. The app was built using the [Sinatra](http://www.sinatrarb.com/) web framework, and uses the [Chunky_PNG](http://github.com/wvanbergen/chunky_png) gem. If you have any suggestions on ways it could be improved, please let me know! Again, [@charliepark](http://twitter.com/charliepark) is best for that.
