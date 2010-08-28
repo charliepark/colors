@@ -31,6 +31,9 @@ You've probably figured this out, but the value you use (in this case, 444444) i
 
 It gets you a 1 pixel by 1 pixel PNG, of the color of your choice. These are useful as CSS background images, when you don't want to affect the width of your box model with a border-width.
 
+#### If I want more options and flexibility, what can I do?
+
+You can use [Dummy Image](http://dummyimage.com/), by my friend [Russell](http://www.russellheimlich.com/blog/). 
 
 #### Who's behind this?
 
@@ -38,6 +41,6 @@ It gets you a 1 pixel by 1 pixel PNG, of the color of your choice. These are use
 
 #### If I have a suggestion, what's the best way to get in touch?
 
-For feature requests or general "hey, this is cool!"-type notes, send a message via Twitter: \([@charliepark](http://twitter.com/charliepark)\).
+For general "hey, this is cool!"-type notes, send a message via Twitter: \([@charliepark](http://twitter.com/charliepark)\).
 
 For code suggestions ... Colors is totally open-source (it's all right here on Github), so feel free to poke around. The app was built using the [Sinatra](http://www.sinatrarb.com/) web framework, and uses the [Chunky_PNG](http://github.com/wvanbergen/chunky_png) gem. If you have any suggestions on ways it could be improved, please let me know! Again, [@charliepark](http://twitter.com/charliepark) is best for that.
